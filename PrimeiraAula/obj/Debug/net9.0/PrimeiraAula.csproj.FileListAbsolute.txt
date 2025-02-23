@@ -1,0 +1,15 @@
+c:\PucMinas\ATP01\PrimeiraAula\bin\Debug\net9.0\PrimeiraAula.exe
+c:\PucMinas\ATP01\PrimeiraAula\bin\Debug\net9.0\PrimeiraAula.deps.json
+c:\PucMinas\ATP01\PrimeiraAula\bin\Debug\net9.0\PrimeiraAula.runtimeconfig.json
+c:\PucMinas\ATP01\PrimeiraAula\bin\Debug\net9.0\PrimeiraAula.dll
+c:\PucMinas\ATP01\PrimeiraAula\bin\Debug\net9.0\PrimeiraAula.pdb
+c:\PucMinas\ATP01\PrimeiraAula\obj\Debug\net9.0\PrimeiraAula.GeneratedMSBuildEditorConfig.editorconfig
+c:\PucMinas\ATP01\PrimeiraAula\obj\Debug\net9.0\PrimeiraAula.AssemblyInfoInputs.cache
+c:\PucMinas\ATP01\PrimeiraAula\obj\Debug\net9.0\PrimeiraAula.AssemblyInfo.cs
+c:\PucMinas\ATP01\PrimeiraAula\obj\Debug\net9.0\PrimeiraAula.csproj.CoreCompileInputs.cache
+c:\PucMinas\ATP01\PrimeiraAula\obj\Debug\net9.0\PrimeiraAula.sourcelink.json
+c:\PucMinas\ATP01\PrimeiraAula\obj\Debug\net9.0\PrimeiraAula.dll
+c:\PucMinas\ATP01\PrimeiraAula\obj\Debug\net9.0\refint\PrimeiraAula.dll
+c:\PucMinas\ATP01\PrimeiraAula\obj\Debug\net9.0\PrimeiraAula.pdb
+c:\PucMinas\ATP01\PrimeiraAula\obj\Debug\net9.0\PrimeiraAula.genruntimeconfig.cache
+c:\PucMinas\ATP01\PrimeiraAula\obj\Debug\net9.0\ref\PrimeiraAula.dll
